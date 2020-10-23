@@ -1,0 +1,827 @@
+22-10-2020 21:44:24.734 [Gauge] [INFO] Watching directory: /Users/testinium/Desktop/getirStudyCaseMobile/specs
+22-10-2020 21:44:24.735 [Gauge] [DEBUG] Found 1 files
+22-10-2020 21:44:24.735 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-10-2020 21:44:24.737 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-10-2020 21:44:24.737 [Gauge] [DEBUG] Adding specs from /Users/testinium/Desktop/getirStudyCaseMobile/specs/example.spec
+22-10-2020 21:44:24.737 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-10-2020 21:44:24.740 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52158
+22-10-2020 21:44:32.328 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+22-10-2020 21:44:32.328 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+22-10-2020 21:44:32.544 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+22-10-2020 21:44:32.544 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+22-10-2020 21:44:32.720 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+22-10-2020 21:44:32.720 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+22-10-2020 21:50:07.146 [Gauge] [INFO] Watching directory: /Users/testinium/Desktop/getirStudyCaseMobile/specs
+22-10-2020 21:50:07.146 [Gauge] [DEBUG] Found 1 files
+22-10-2020 21:50:07.148 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+22-10-2020 21:50:07.148 [Gauge] [INFO] Initializing specs cache with 1 specs
+22-10-2020 21:50:07.148 [Gauge] [DEBUG] Adding specs from /Users/testinium/Desktop/getirStudyCaseMobile/specs/example.spec
+22-10-2020 21:50:07.148 [Gauge] [INFO] Initializing steps cache with 1 steps
+22-10-2020 21:50:07.148 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52323
+22-10-2020 21:57:41.497 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 22:24:12.050 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 22:24:13.174 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:24:13.176 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > allSteps:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > allSteps:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 
+22-10-2020 22:24:13.177 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:24:13.177 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22-10-2020 22:24:17.995 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 22:36:18.884 [Gauge] [INFO] Spec file removed: /Users/testinium/Desktop/getirStudyCaseMobile/specs/example.spec
+22-10-2020 22:39:49.955 [Gauge] [INFO] Concept file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt
+22-10-2020 22:39:49.961 [Gauge] [INFO] Concept file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt
+22-10-2020 22:39:50.602 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step1" > 
+22-10-2020 22:39:50.602 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+22-10-2020 22:39:50.763 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Concept Heading" > 
+22-10-2020 22:39:50.764 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > > 
+22-10-2020 22:39:50.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"step2" > 
+22-10-2020 22:39:50.766 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:17.060 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+22-10-2020 22:40:17.060 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+22-10-2020 22:40:33.535 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:33.535 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:33.536 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:33.536 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:35.693 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:35.693 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:35.694 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:35.695 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:35.705 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:35.706 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:35.711 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:35.712 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:35.847 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:35.847 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+22-10-2020 22:40:35.848 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:35.848 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:35.850 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:35.850 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:35.850 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:35.850 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:36.215 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:36.215 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:36.216 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:36.216 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:36.217 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:36.217 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:36.218 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:36.218 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:36.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with" > 
+22-10-2020 22:40:36.537 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with" parameterizedStepValue:"login with" > > 
+22-10-2020 22:40:36.858 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:36.858 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:36.859 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:36.859 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:36.862 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:36.862 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:36.863 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:36.863 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:36.990 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:36.990 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+22-10-2020 22:40:36.990 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:36.990 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:36.992 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:36.992 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:36.993 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:36.993 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:37.222 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:37.222 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:37.223 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:37.223 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:37.228 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:37.228 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:37.233 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:37.233 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:37.384 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:37.384 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:37.385 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:37.385 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:37.386 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:37.386 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:37.387 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:37.387 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:37.704 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with user" > 
+22-10-2020 22:40:37.704 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with user" parameterizedStepValue:"login with user" > > 
+22-10-2020 22:40:37.833 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" login with <key> and <key>" > 
+22-10-2020 22:40:37.833 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <key> and <key>" parameters:"key" parameters:"key" > > 
+22-10-2020 22:40:38.318 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.318 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:38.319 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.319 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.321 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.321 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:38.322 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.322 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.451 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.452 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:38.452 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.452 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.456 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.456 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:38.459 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.459 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.582 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.582 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:38.582 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.582 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.586 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.587 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:38.590 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.590 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.773 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.773 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:38.773 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.773 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:38.774 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:38.774 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:38.774 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:38.774 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:39.181 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with userName" > 
+22-10-2020 22:40:39.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with userName" parameterizedStepValue:"login with userName" > > 
+22-10-2020 22:40:41.912 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with userName <key>" > 
+22-10-2020 22:40:41.912 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with userName {}" parameterizedStepValue:"login with userName <key>" parameters:"key" > > 
+22-10-2020 22:40:44.384 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:44.384 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:44.388 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:44.388 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:46.443 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:46.443 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:46.452 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:46.452 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:46.457 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:46.457 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:46.457 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:46.457 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:46.777 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:46.777 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:46.778 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:46.778 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:46.792 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:46.793 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:46.796 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:46.796 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:46.914 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:46.914 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:46.915 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:46.915 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:46.917 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:46.917 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+22-10-2020 22:40:46.918 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:46.918 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:47.922 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:47.922 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+22-10-2020 22:40:47.923 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:47.923 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:47.925 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:47.925 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:47.932 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:47.932 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.055 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:48.055 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:48.055 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:48.055 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.056 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:48.056 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:48.057 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:48.057 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.279 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:48.279 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:48.279 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:48.280 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.281 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:48.281 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:48.281 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:48.282 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.390 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:48.390 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:48.390 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:48.390 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.391 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:48.391 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:48.392 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:48.392 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:48.851 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with pass" > 
+22-10-2020 22:40:48.851 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with pass" parameterizedStepValue:"login with pass" > > 
+22-10-2020 22:40:49.008 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.008 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:49.009 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.009 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.010 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.010 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:49.011 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.011 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.150 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.150 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:49.151 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.151 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.153 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.153 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:49.153 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.153 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.329 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.329 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:49.329 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.329 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.332 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.333 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:49.333 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.333 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.606 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.606 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:49.606 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.606 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:49.608 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:49.608 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:49.609 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:49.609 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:50.057 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with password" > 
+22-10-2020 22:40:50.057 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with password" parameterizedStepValue:"login with password" > > 
+22-10-2020 22:40:51.633 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with password >" > 
+22-10-2020 22:40:51.633 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with password >" parameterizedStepValue:"login with password >" > > 
+22-10-2020 22:40:55.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with password <key>" > 
+22-10-2020 22:40:55.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with password {}" parameterizedStepValue:"login with password <key>" parameters:"key" > > 
+22-10-2020 22:40:56.912 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:56.912 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:56.913 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:56.913 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:56.914 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:56.914 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:56.915 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:56.915 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.212 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:57.212 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > > 
+22-10-2020 22:40:57.213 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:57.213 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.214 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:57.214 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:57.215 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:57.215 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.432 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:57.433 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:57.433 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:57.433 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.434 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:57.434 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:57.434 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:57.434 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.545 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:57.545 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:40:57.545 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:57.545 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.554 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:57.555 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:57.560 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:57.560 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:57.867 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with userName this<key>" > 
+22-10-2020 22:40:57.868 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with userName this{}" parameterizedStepValue:"login with userName this<key>" parameters:"key" > > 
+22-10-2020 22:40:58.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with userName this <key>" > 
+22-10-2020 22:40:58.535 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with userName this {}" parameterizedStepValue:"login with userName this <key>" parameters:"key" > > 
+22-10-2020 22:40:59.962 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:59.962 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:59.963 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:59.963 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:40:59.967 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:40:59.967 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:40:59.969 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:40:59.969 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.132 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:41:00.132 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > > 
+22-10-2020 22:41:00.132 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:41:00.132 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.147 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:41:00.147 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:41:00.149 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:41:00.150 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.399 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:41:00.399 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:41:00.399 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:41:00.399 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.400 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:41:00.400 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:41:00.401 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:41:00.401 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.505 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:41:00.506 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:41:00.509 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:41:00.509 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.511 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:41:00.511 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:41:00.511 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:41:00.511 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:41:00.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with password this <key>" > 
+22-10-2020 22:41:00.905 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with password this {}" parameterizedStepValue:"login with password this <key>" parameters:"key" > > 
+22-10-2020 22:41:33.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+22-10-2020 22:41:33.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+22-10-2020 22:41:33.153 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+22-10-2020 22:41:33.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+22-10-2020 22:42:04.176 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* login with userName this <key>" > 
+22-10-2020 22:42:04.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* login with userName this {}" parameterizedStepValue:"* login with userName this <key>" parameters:"key" > > 
+22-10-2020 22:42:04.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* login with password this <key>" > 
+22-10-2020 22:42:04.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* login with password this {}" parameterizedStepValue:"* login with password this <key>" parameters:"key" > > 
+22-10-2020 22:53:02.966 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+22-10-2020 22:53:02.967 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+22-10-2020 22:53:03.024 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+22-10-2020 22:53:03.025 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+22-10-2020 22:54:02.222 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+22-10-2020 22:54:02.222 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+22-10-2020 22:54:02.422 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:54:02.422 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"step1" parameterizedStepValue:"step1" > allSteps:<stepValue:"step2" parameterizedStepValue:"step2" > allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:54:02.425 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:54:02.425 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<concepts:<stepValue:<stepValue:"Concept Heading" parameterizedStepValue:"Concept Heading" > filepath:"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt" lineNumber:4 > > 
+22-10-2020 22:54:27.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with <key> and <key>" > 
+22-10-2020 22:54:27.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <key> and <key>" parameters:"key" parameters:"key" > > 
+22-10-2020 22:54:32.182 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with \"\" and <key>" > 
+22-10-2020 22:54:32.182 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <> and <key>" parameters:"" parameters:"key" > > 
+22-10-2020 22:54:32.189 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with \"\" and <key>" > 
+22-10-2020 22:54:32.189 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <> and <key>" parameters:"" parameters:"key" > > 
+22-10-2020 22:54:33.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with \"hello\" and <key>" > 
+22-10-2020 22:54:33.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <hello> and <key>" parameters:"hello" parameters:"key" > > 
+22-10-2020 22:54:36.673 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with \"hello\" and \"\"" > 
+22-10-2020 22:54:36.673 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <hello> and <>" parameters:"hello" parameters:"" > > 
+22-10-2020 22:54:39.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"login with \"hello\" and \"hello\"" > 
+22-10-2020 22:54:39.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"login with {} and {}" parameterizedStepValue:"login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+22-10-2020 22:56:40.751 [Gauge] [INFO] Concept file removed: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.cpt
+22-10-2020 22:56:50.547 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with <key> and <key>" > 
+22-10-2020 22:56:50.547 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <key> and <key>" parameters:"key" parameters:"key" > > 
+22-10-2020 22:56:54.160 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ogin with \"hello\" and \"hello\"" > 
+22-10-2020 22:56:54.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ogin with {} and {}" parameterizedStepValue:"ogin with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+22-10-2020 22:56:54.565 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+22-10-2020 22:56:54.566 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"login" parameterizedStepValue:"login" > > 
+22-10-2020 22:56:54.566 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+22-10-2020 22:56:54.566 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+22-10-2020 22:56:55.479 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello\" and \"hello\"" > 
+22-10-2020 22:56:55.479 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+22-10-2020 22:56:55.480 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello\" and \"hello\"" > 
+22-10-2020 22:56:55.480 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+22-10-2020 22:58:19.105 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 23:22:12.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@\" and \"hello\"" > 
+22-10-2020 23:22:12.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@> and <hello>" parameters:"hello@" parameters:"hello" > > 
+22-10-2020 23:22:16.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@get\" and \"hello\"" > 
+22-10-2020 23:22:16.069 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@get> and <hello>" parameters:"hello@get" parameters:"hello" > > 
+22-10-2020 23:22:16.929 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@getir\" and \"hello\"" > 
+22-10-2020 23:22:16.929 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir> and <hello>" parameters:"hello@getir" parameters:"hello" > > 
+22-10-2020 23:22:17.386 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@getir.\" and \"hello\"" > 
+22-10-2020 23:22:17.386 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.> and <hello>" parameters:"hello@getir." parameters:"hello" > > 
+22-10-2020 23:22:18.655 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@getir.com\" and \"hello\"" > 
+22-10-2020 23:22:18.655 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > > 
+22-10-2020 23:23:49.981 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 23:38:42.163 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 23:38:42.645 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 23:38:49.728 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+22-10-2020 23:40:51.507 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:12:04.638 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"BLogin with <key> and <key>" > 
+23-10-2020 00:12:04.640 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"BLogin with {} and {}" parameterizedStepValue:"BLogin with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:05.697 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"BaraLogin with <key> and <key>" > 
+23-10-2020 00:12:05.697 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"BaraLogin with {} and {}" parameterizedStepValue:"BaraLogin with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:09.000 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Bararili login with <key> and <key>" > 
+23-10-2020 00:12:09.001 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Bararili login with {} and {}" parameterizedStepValue:"Bararili login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:13.758 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Basaili login with <key> and <key>" > 
+23-10-2020 00:12:13.758 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Basaili login with {} and {}" parameterizedStepValue:"Basaili login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:15.766 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Basarili login with <key> and <key>" > 
+23-10-2020 00:12:15.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Basarili login with {} and {}" parameterizedStepValue:"Basarili login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:22.375 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ba\305\237ar\304\261l\304\261 login with <key> and <key>" > 
+23-10-2020 00:12:22.376 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ba\305\237ar\304\261l\304\261 login with {} and {}" parameterizedStepValue:"Ba\305\237ar\304\261l\304\261 login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:26.078 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Basa login with <key> and <key>" > 
+23-10-2020 00:12:26.078 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Basa login with {} and {}" parameterizedStepValue:"Basa login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:33.259 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Sulogin with <key> and <key>" > 
+23-10-2020 00:12:33.259 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Sulogin with {} and {}" parameterizedStepValue:"Sulogin with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:34.159 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Suclogin with <key> and <key>" > 
+23-10-2020 00:12:34.160 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Suclogin with {} and {}" parameterizedStepValue:"Suclogin with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:35.627 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successlogin with <key> and <key>" > 
+23-10-2020 00:12:35.627 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successlogin with {} and {}" parameterizedStepValue:"Successlogin with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:37.130 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful login with <key> and <key>" > 
+23-10-2020 00:12:37.131 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:12:49.590 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:12:49.591 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:12:49.591 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:12:49.593 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:12:56.275 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful Login with \"hello@getir.com\" and \"hello\"" > 
+23-10-2020 00:12:56.275 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful Login with {} and {}" parameterizedStepValue:"Successful Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > > 
+23-10-2020 00:12:59.726 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:12:59.726 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:12:59.727 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:12:59.727 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:13:00.842 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful login with \"hello@getir.com\" and \"hello\"" > 
+23-10-2020 00:13:00.842 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > > 
+23-10-2020 00:13:07.589 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:13:07.589 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:13:07.590 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:13:07.590 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:13:08.012 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:13:08.012 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:13:08.013 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:13:08.013 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:13:11.056 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"hello\" and \"hello\"" > 
+23-10-2020 00:13:11.056 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:13:51.147 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with <key> and <key>" > 
+23-10-2020 00:13:51.148 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 00:27:20.290 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:30:36.092 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:37:39.598 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful login with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:37:39.599 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:37:39.600 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful login with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:37:39.600 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:37:44.831 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:38:56.459 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:38:56.512 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:39:02.761 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:39:09.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:39:09.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:39:10.575 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:10.578 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:10.578 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:10.578 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:12.532 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:12.532 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:12.533 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:12.533 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:12.540 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:12.541 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:12.542 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:12.543 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:12.867 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:12.867 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:12.870 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:12.870 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:12.875 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:12.875 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:12.879 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:12.880 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:13.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Logout" > 
+23-10-2020 00:39:13.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Logout" parameterizedStepValue:"Logout" > > 
+23-10-2020 00:39:13.708 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:13.708 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:13.709 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:13.709 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:13.711 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:13.711 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:13.712 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:13.712 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:14.062 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:14.062 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:14.063 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:14.063 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:14.064 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:14.066 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:39:14.066 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:14.067 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:14.229 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:14.229 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:14.229 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:14.230 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:14.231 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:14.231 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:14.239 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:14.239 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:14.677 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Logout from" > 
+23-10-2020 00:39:14.679 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Logout from" parameterizedStepValue:"Logout from" > > 
+23-10-2020 00:39:17.732 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:17.732 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:17.735 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:17.735 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:17.738 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:17.739 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:17.741 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:17.741 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:17.876 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:17.876 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:17.877 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:17.877 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:17.878 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:17.878 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:17.879 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:17.880 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.057 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.058 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.058 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.059 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.059 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.060 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:39:18.060 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.060 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.331 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.331 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.331 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.331 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.332 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.332 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.332 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.332 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.621 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.621 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.622 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.622 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.623 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.623 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.624 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.624 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.775 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.775 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.776 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.776 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.777 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.777 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:18.777 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.777 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.901 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.901 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:39:18.902 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.902 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:18.905 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:18.906 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:39:18.907 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:18.907 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:19.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Logout from applica" > 
+23-10-2020 00:39:19.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Logout from applica" parameterizedStepValue:"Logout from applica" > > 
+23-10-2020 00:39:19.532 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:19.532 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:19.533 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:19.533 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:19.534 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:19.535 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:19.535 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:19.535 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:19.769 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:19.770 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:19.771 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:19.772 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:19.776 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:19.776 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:19.779 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:19.780 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:19.967 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:19.967 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:19.968 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:19.968 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:19.969 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:39:19.969 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:39:19.971 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:39:19.972 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:39:20.281 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Logout from application" > 
+23-10-2020 00:39:20.281 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 00:39:24.887 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:39:58.192 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful ogin with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:39:58.193 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful ogin with {} and {}" parameterizedStepValue:"Successful ogin with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:39:58.194 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Successful ogin with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:39:58.194 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Successful ogin with {} and {}" parameterizedStepValue:"Successful ogin with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:40:00.180 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ogin with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:40:00.181 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ogin with {} and {}" parameterizedStepValue:"ogin with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:40:00.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"ogin with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:40:00.186 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"ogin with {} and {}" parameterizedStepValue:"ogin with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:40:01.149 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:40:01.149 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 00:40:01.150 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:40:01.150 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:40:02.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:40:02.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:40:02.571 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@getir.co\" and \"hello\"" > 
+23-10-2020 00:40:02.571 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > > 
+23-10-2020 00:40:08.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"with \"hello\" and \"hello\"" > 
+23-10-2020 00:40:08.801 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"with {} and {}" parameterizedStepValue:"with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 00:40:09.085 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:40:09.085 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Successful login with {} and {}" parameterizedStepValue:"Successful login with <hello@getir.co> and <hello>" parameters:"hello@getir.co" parameters:"hello" > allSteps:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 00:40:09.085 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:40:09.085 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:40:39.724 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:40:39.724 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:40:39.793 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:40:39.794 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:40:39.801 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:40:39.802 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:43:43.379 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:43:43.382 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:43:43.524 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:43:43.527 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:43:44.963 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"wait " > 
+23-10-2020 00:43:44.963 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"wait" parameterizedStepValue:"wait" > > 
+23-10-2020 00:43:46.661 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"W" > 
+23-10-2020 00:43:46.661 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"W" parameterizedStepValue:"W" > > 
+23-10-2020 00:43:47.104 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wa" > 
+23-10-2020 00:43:47.104 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wa" parameterizedStepValue:"Wa" > > 
+23-10-2020 00:43:47.951 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wai " > 
+23-10-2020 00:43:47.952 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wai" parameterizedStepValue:"Wai" > > 
+23-10-2020 00:43:49.937 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait by " > 
+23-10-2020 00:43:49.938 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait by" parameterizedStepValue:"Wait by" > > 
+23-10-2020 00:43:50.988 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait by se" > 
+23-10-2020 00:43:50.989 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait by se" parameterizedStepValue:"Wait by se" > > 
+23-10-2020 00:43:51.572 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait by seco" > 
+23-10-2020 00:43:51.572 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait by seco" parameterizedStepValue:"Wait by seco" > > 
+23-10-2020 00:43:52.505 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait by seconds" > 
+23-10-2020 00:43:52.505 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait by seconds" parameterizedStepValue:"Wait by seconds" > > 
+23-10-2020 00:44:07.570 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait  seconds" > 
+23-10-2020 00:44:07.570 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait  seconds" parameterizedStepValue:"Wait  seconds" > > 
+23-10-2020 00:44:09.480 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait < seconds" > 
+23-10-2020 00:44:09.481 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse messageId:4 error:<error:"Dynamic parameter not terminated" > 
+23-10-2020 00:44:10.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <> seconds" > 
+23-10-2020 00:44:10.429 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <> seconds" parameters:"" > > 
+23-10-2020 00:44:11.365 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <key> seconds" > 
+23-10-2020 00:44:11.365 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <key> seconds" parameters:"key" > > 
+23-10-2020 00:51:10.018 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:51:12.915 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 00:52:06.208 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/shop.spec
+23-10-2020 00:52:25.126 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/shop.spec
+23-10-2020 00:52:29.462 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:52:29.467 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:52:29.690 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 00:52:29.690 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 00:52:29.695 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 00:52:29.695 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 00:52:49.071 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 00:52:49.073 [Gauge] [INFO] Spec file removed: /Users/testinium/Desktop/getirStudyCaseMobile/specs/shop.spec
+23-10-2020 00:53:49.140 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:53:49.140 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:53:49.141 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:53:49.141 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:53:54.302 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:53:54.302 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 00:53:54.304 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 00:53:54.304 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 01:19:39.251 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Random " > 
+23-10-2020 01:19:39.252 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Random" parameterizedStepValue:"Random" > > 
+23-10-2020 01:19:43.023 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Random one pro" > 
+23-10-2020 01:19:43.024 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Random one pro" parameterizedStepValue:"Random one pro" > > 
+23-10-2020 01:19:44.562 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Random one product " > 
+23-10-2020 01:19:44.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Random one product" parameterizedStepValue:"Random one product" > > 
+23-10-2020 01:19:48.215 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Random one product add to basket" > 
+23-10-2020 01:19:48.217 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Random one product add to basket" parameterizedStepValue:"Random one product add to basket" > > 
+23-10-2020 01:44:56.316 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 01:44:58.323 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 01:44:58.323 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 01:44:58.995 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 01:44:58.995 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 01:44:58.996 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 01:44:58.996 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 01:45:12.207 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 01:45:12.207 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 01:45:12.207 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 01:45:12.207 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 01:45:12.208 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 01:45:12.208 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 01:45:12.208 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 01:45:12.209 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 01:45:12.526 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 01:45:12.526 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 01:45:12.526 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 01:45:12.526 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 01:45:12.527 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 01:45:12.527 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 01:45:12.528 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 01:45:12.528 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 01:45:12.831 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Randomly one product add to basket" > 
+23-10-2020 01:45:12.832 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > > 
+23-10-2020 01:45:12.832 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Randomly one product add to basket" > 
+23-10-2020 01:45:12.832 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > > 
+23-10-2020 01:45:20.824 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Randoly one product add to basket" > 
+23-10-2020 01:45:20.824 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Randoly one product add to basket" parameterizedStepValue:"Randoly one product add to basket" > > 
+23-10-2020 01:45:46.182 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 01:47:35.517 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 01:47:35.518 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 01:47:35.520 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 01:47:35.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 01:47:39.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go " > 
+23-10-2020 01:47:39.022 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go" parameterizedStepValue:"Go" > > 
+23-10-2020 01:47:39.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to " > 
+23-10-2020 01:47:39.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to" parameterizedStepValue:"Go to" > > 
+23-10-2020 01:47:41.635 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to basket" > 
+23-10-2020 01:47:41.635 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to basket" parameterizedStepValue:"Go to basket" > > 
+23-10-2020 01:49:24.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to basket and" > 
+23-10-2020 01:49:24.311 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to basket and" parameterizedStepValue:"Go to basket and" > > 
+23-10-2020 01:49:25.180 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to basket and " > 
+23-10-2020 01:49:25.182 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to basket and" parameterizedStepValue:"Go to basket and" > > 
+23-10-2020 01:49:27.214 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to basket and contr" > 
+23-10-2020 01:49:27.215 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to basket and contr" parameterizedStepValue:"Go to basket and contr" > > 
+23-10-2020 01:49:27.845 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to basket and control" > 
+23-10-2020 01:49:27.845 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > > 
+23-10-2020 02:07:49.473 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:07:50.908 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:07:50.910 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:07:51.479 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 02:07:51.479 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > > 
+23-10-2020 02:07:51.482 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 02:07:51.482 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 02:07:54.354 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:08:42.129 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:08:42.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:08:42.130 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:08:42.131 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:08:43.177 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Re" > 
+23-10-2020 02:08:43.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Re" parameterizedStepValue:"Re" > > 
+23-10-2020 02:08:45.917 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Remove " > 
+23-10-2020 02:08:45.917 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Remove" parameterizedStepValue:"Remove" > > 
+23-10-2020 02:08:50.213 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Remove products" > 
+23-10-2020 02:08:50.213 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > > 
+23-10-2020 02:13:53.094 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:13:54.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:13:54.307 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:13:54.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:13:54.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:13:54.311 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:13:54.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:13:54.336 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:13:54.336 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:13:54.343 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:13:54.343 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:13:54.568 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 02:13:54.568 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > allSteps:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 02:13:54.569 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 02:13:54.569 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 02:15:02.110 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:15:35.224 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:20:35.577 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 02:20:50.555 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 02:23:20.175 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:23:20.177 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:23:20.178 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:23:20.178 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:23:21.847 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add " > 
+23-10-2020 02:23:21.847 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add" parameterizedStepValue:"Add" > > 
+23-10-2020 02:23:24.640 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add product" > 
+23-10-2020 02:23:24.640 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add product" parameterizedStepValue:"Add product" > > 
+23-10-2020 02:24:19.767 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add <key> product" > 
+23-10-2020 02:24:19.767 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <key> product" parameters:"key" > > 
+23-10-2020 02:31:22.318 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:31:22.484 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:31:26.606 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:31:28.337 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:31:48.088 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 02:31:49.395 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:31:49.395 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:31:49.396 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:31:49.396 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:31:49.419 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:31:49.419 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:31:49.420 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:31:49.422 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:31:49.425 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:31:49.425 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:31:49.700 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 02:31:49.702 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > allSteps:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > allSteps:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > > 
+23-10-2020 02:31:49.703 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 02:31:49.703 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 02:31:56.044 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"key\" product" > 
+23-10-2020 02:31:56.044 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <key> product" parameters:"key" > > 
+23-10-2020 02:31:56.047 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"key\" product" > 
+23-10-2020 02:31:56.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <key> product" parameters:"key" > > 
+23-10-2020 02:31:57.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"\" product" > 
+23-10-2020 02:31:57.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <> product" parameters:"" > > 
+23-10-2020 02:31:59.083 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"2\" product" > 
+23-10-2020 02:31:59.083 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <2> product" parameters:"2" > > 
+23-10-2020 02:34:10.867 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 02:34:19.278 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:34:19.278 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:34:19.461 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 02:34:19.461 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > allSteps:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > allSteps:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > > 
+23-10-2020 02:34:19.462 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 02:34:19.462 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 02:34:22.102 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"1\" product" > 
+23-10-2020 02:34:22.102 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <1> product" parameters:"1" > > 
+23-10-2020 02:34:55.694 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 02:35:57.616 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:35:57.617 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:35:57.618 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:35:57.619 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:36:07.847 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to payment page" > 
+23-10-2020 02:36:07.847 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to payment page" parameterizedStepValue:"Go to payment page" > > 
+23-10-2020 02:54:04.281 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 02:54:05.558 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:54:05.558 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:54:06.518 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 02:54:06.518 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > allSteps:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > allSteps:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > allSteps:<stepValue:"Add {} product" parameterizedStepValue:"Add <1> product" parameters:"1" > > 
+23-10-2020 02:54:06.519 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 02:54:06.519 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 02:55:49.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:55:49.308 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:55:49.309 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 02:55:49.310 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 02:55:54.530 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Empty basket" > 
+23-10-2020 02:55:54.530 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Empty basket" parameterizedStepValue:"Empty basket" > > 
+23-10-2020 03:03:31.952 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 03:03:33.133 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<> 
+23-10-2020 03:03:33.134 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<> > 
+23-10-2020 03:03:33.304 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 03:03:33.306 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > allSteps:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > allSteps:<stepValue:"Add {} product" parameterizedStepValue:"Add <1> product" parameters:"1" > allSteps:<stepValue:"Go to payment page" parameterizedStepValue:"Go to payment page" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > allSteps:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > > 
+23-10-2020 03:03:33.307 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 03:03:33.307 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 03:03:46.975 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 10:30:06.945 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:<> 
+23-10-2020 10:30:06.951 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:<allSteps:<stepValue:"Go to payment page" parameterizedStepValue:"Go to payment page" > allSteps:<stepValue:"Empty basket" parameterizedStepValue:"Empty basket" > allSteps:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > allSteps:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > allSteps:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > allSteps:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > allSteps:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > allSteps:<stepValue:"Add {} product" parameterizedStepValue:"Add <1> product" parameters:"1" > > 
+23-10-2020 10:30:06.953 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:<> 
+23-10-2020 10:30:06.953 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:<> 
+23-10-2020 10:30:09.420 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"key\" and \"key\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:09.420 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <key> and <key> with <hello> and <hello>" parameters:"key" parameters:"key" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:09.436 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"key\" and \"key\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:09.436 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <key> and <key> with <hello> and <hello>" parameters:"key" parameters:"key" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:11.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"\" and \"key\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:11.623 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <> and <key> with <hello> and <hello>" parameters:"" parameters:"key" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:11.627 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"\" and \"key\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:11.627 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <> and <key> with <hello> and <hello>" parameters:"" parameters:"key" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:14.267 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"hello\" and \"key\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:14.269 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <hello> and <key> with <hello> and <hello>" parameters:"hello" parameters:"key" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:14.271 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"hello\" and \"key\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:14.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <hello> and <key> with <hello> and <hello>" parameters:"hello" parameters:"key" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:17.256 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"hello\" and \"hello\" with \"hello\" and \"hello\"" > 
+23-10-2020 10:30:17.256 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {} with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello> with <hello> and <hello>" parameters:"hello" parameters:"hello" parameters:"hello" parameters:"hello" > > 
+23-10-2020 10:30:20.707 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 10:49:54.097 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 10:51:52.195 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 14:09:13.031 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to ba" > 
+23-10-2020 14:09:13.032 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to ba" parameterizedStepValue:"Go to ba" > > 
+23-10-2020 14:09:16.162 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec

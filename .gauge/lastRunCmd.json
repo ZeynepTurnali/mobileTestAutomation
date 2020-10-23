@@ -1,0 +1,6 @@
+[
+	"gauge",
+	"run",
+	"--dir=/Users/testinium/Desktop/getirStudyCaseMobile",
+	"/Users/testinium/Desktop/getirStudyCaseMobile/specs"
+]
