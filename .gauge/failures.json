@@ -1,14 +1,9 @@
 {
 	"Args": [
 		"run",
-		"--dir=/Users/testinium/Desktop/getirStudyCaseMobile"
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
 	],
-	"FailedItems": [
-		"specs/login.spec:12",
-		"specs/login.spec:4",
-		"specs/login.spec:8",
-		"specs/payment.spec:5",
-		"specs/basket.spec:5",
-		"specs/basket.spec:11"
-	]
+	"FailedItems": []
 }

@@ -1,17 +1,16 @@
 package driver;
 
-import com.thoughtworks.gauge.AfterScenario;
-import com.thoughtworks.gauge.AfterSuite;
-import com.thoughtworks.gauge.BeforeScenario;
-import com.thoughtworks.gauge.BeforeSuite;
+import com.thoughtworks.gauge.*;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.AndroidMobileCapabilityType;
 import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.remote.MobilePlatform;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
+import steps.StepImplementation;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -23,6 +22,7 @@ public class Driver {
 
     // Holds the WebDriver instance
     // public static WebDriver webDriver;
+    public static Logger logger = Logger.getLogger(Driver.class);
     public static AppiumDriver appiumDriver;
     public static AndroidDriver androidDriver;
 
@@ -38,6 +38,14 @@ public class Driver {
         public void closeDriver(){
             webDriver.quit();
         }*/
+    @BeforeSpec
+    public void beforeSpec(ExecutionContext executionContext) {
+
+        logger.info("=========================================================================" + "\r\n");
+        logger.info("------------------------SPEC-------------------------");
+        logger.info("SPEC FILE NAME: " + executionContext.getCurrentSpecification().getFileName());
+        logger.info("SPEC NAME: " + executionContext.getCurrentSpecification().getName());
+    }
     @BeforeScenario
     public void initialization() {
         URL url = null;
@@ -67,6 +75,12 @@ public class Driver {
         appiumDriver = new AppiumDriver(url, desiredCapabilities);
         appiumDriver.manage().timeouts().implicitlyWait(60l, TimeUnit.SECONDS);
 
+    }
+
+    @AfterSpec
+    public void afterSpec(ExecutionContext executionContext) {
+
+        logger.info("=========================================================================" + "\r\n");
     }
 
     @AfterScenario

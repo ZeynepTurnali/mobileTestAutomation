@@ -825,3 +825,40 @@
 23-10-2020 14:09:13.031 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to ba" > 
 23-10-2020 14:09:13.032 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to ba" parameterizedStepValue:"Go to ba" > > 
 23-10-2020 14:09:16.162 [Gauge] [INFO] Spec file added / modified: /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 15:30:52.755 [Gauge] [INFO] Watching directory: /Users/testinium/Desktop/getirStudyCaseMobile/specs
+23-10-2020 15:30:52.755 [Gauge] [DEBUG] Found 3 files
+23-10-2020 15:30:52.757 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-10-2020 15:30:52.759 [Gauge] [INFO] Initializing specs cache with 3 specs
+23-10-2020 15:30:52.759 [Gauge] [DEBUG] Adding specs from /Users/testinium/Desktop/getirStudyCaseMobile/specs/payment.spec
+23-10-2020 15:30:52.759 [Gauge] [DEBUG] Adding specs from /Users/testinium/Desktop/getirStudyCaseMobile/specs/basket.spec
+23-10-2020 15:30:52.759 [Gauge] [DEBUG] Adding specs from /Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec
+23-10-2020 15:30:52.759 [Gauge] [INFO] Initializing steps cache with 3 steps
+23-10-2020 15:30:52.759 [Gauge] [INFO] Gauge daemon initialized and listening on port: 58085
+23-10-2020 15:31:21.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Wait <key> seconds" > 
+23-10-2020 15:31:21.049 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Wait {} seconds" parameterizedStepValue:"Wait <key> seconds" parameters:"key" > > 
+23-10-2020 15:31:22.471 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with <key> and <key>" > 
+23-10-2020 15:31:22.471 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 15:31:22.695 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with <key> and <key>" > 
+23-10-2020 15:31:22.696 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <key> and <key>" parameters:"key" parameters:"key" > > 
+23-10-2020 15:31:22.872 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Logout from application" > 
+23-10-2020 15:31:22.873 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Logout from application" parameterizedStepValue:"Logout from application" > > 
+23-10-2020 15:31:23.333 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Randomly one product add to basket" > 
+23-10-2020 15:31:23.334 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Randomly one product add to basket" parameterizedStepValue:"Randomly one product add to basket" > > 
+23-10-2020 15:31:23.535 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to basket and control" > 
+23-10-2020 15:31:23.535 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to basket and control" parameterizedStepValue:"Go to basket and control" > > 
+23-10-2020 15:31:23.637 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Remove products" > 
+23-10-2020 15:31:23.637 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Remove products" parameterizedStepValue:"Remove products" > > 
+23-10-2020 15:31:23.887 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add <key> product" > 
+23-10-2020 15:31:23.887 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <key> product" parameters:"key" > > 
+23-10-2020 15:31:23.985 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to payment page" > 
+23-10-2020 15:31:23.985 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to payment page" parameterizedStepValue:"Go to payment page" > > 
+23-10-2020 15:31:24.074 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Empty basket" > 
+23-10-2020 15:31:24.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Empty basket" parameterizedStepValue:"Empty basket" > > 
+23-10-2020 15:31:24.267 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Login with \"hello@getir.com\" and \"hello\"" > 
+23-10-2020 15:31:24.267 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Login with {} and {}" parameterizedStepValue:"Login with <hello@getir.com> and <hello>" parameters:"hello@getir.com" parameters:"hello" > > 
+23-10-2020 15:31:24.268 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Failed login with \"hello\" and \"hello\"" > 
+23-10-2020 15:31:24.268 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Failed login with {} and {}" parameterizedStepValue:"Failed login with <hello> and <hello>" parameters:"hello" parameters:"hello" > > 
+23-10-2020 15:31:24.269 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"1\" product" > 
+23-10-2020 15:31:24.270 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <1> product" parameters:"1" > > 
+23-10-2020 15:31:24.272 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Add \"2\" product" > 
+23-10-2020 15:31:24.272 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Add {} product" parameterizedStepValue:"Add <2> product" parameters:"2" > > 

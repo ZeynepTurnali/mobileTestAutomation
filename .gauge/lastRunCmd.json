@@ -1,6 +1,8 @@
 [
-	"gauge",
+	"/usr/local/bin/gauge",
 	"run",
-	"--dir=/Users/testinium/Desktop/getirStudyCaseMobile",
-	"/Users/testinium/Desktop/getirStudyCaseMobile/specs"
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/testinium/Desktop/getirStudyCaseMobile/specs/login.spec:4"
 ]
